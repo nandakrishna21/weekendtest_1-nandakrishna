@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(204, 245, 139);
+}
+h2{
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 150px;
+    width: 50%;
+    line-height: 2.1rem;
+    background-color: rgb(36, 350, 1);
+}
+form{
+    text-align: center;
+    margin-left : 25%;
+    width : 50%;
+    margin-top: 5%;
+    font-size: large;
+}
+input{
+    color: rgb(20, 21, 22);
+}
+input[type=text]{
+    opacity: 1.0;
+    height: 30px;
+    width: 250px;
+    background-color: rgb(248, 207, 207);
+}
+input[type=email]{
+    opacity: 0.5;
+    height: 30px;
+    width: 250px;
+    background-color: rgb(241, 178, 52);
+}
+input[type=contact]{
+    opacity: 0.5;
+    height: 30px;
+    width: 250px;
+    background-color: rgb(247, 240, 52);
+}  
+h5{
+    text-align: center;
+    margin-left: 30%;
+    
+    width: 50%;
+    line-height: 2.1rem;
+    background-color: gold;
+
+} 
+h3{
+    background-color: pink;
+    text-align: center;
+}
